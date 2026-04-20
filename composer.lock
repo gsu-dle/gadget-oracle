@@ -162,11 +162,11 @@
         },
         {
             "name": "gsu-dle/gadget-console",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gsu-dle/gadget-console.git",
-                "reference": "7c323d4200bcc1cbf84d30fea37b14586b2ae552"
+                "reference": "1644269c6bc3ea7c7bb81c2b80709a0d06d91c64"
             },
             "require": {
                 "ext-json": "*",
@@ -210,7 +210,7 @@
                 "wiki": "https://github.com/gsu-dle/gadget-console/wiki",
                 "source": "https://github.com/gsu-dle/gadget-console"
             },
-            "time": "2026-04-20T14:45:06+00:00"
+            "time": "2026-04-20T18:00:38+00:00"
         },
         {
             "name": "gsu-dle/gadget-core",
@@ -262,11 +262,11 @@
         },
         {
             "name": "gsu-dle/gadget-log",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gsu-dle/gadget-log.git",
-                "reference": "90b83ee3560c104af0cf276c9d10451b48ea6459"
+                "reference": "51208ea93fac5ed3e3b90c1c038e307c5cfc3954"
             },
             "require": {
                 "ext-json": "*",
@@ -314,15 +314,15 @@
                 "wiki": "https://github.com/gsu-dle/gadget-log/wiki",
                 "source": "https://github.com/gsu-dle/gadget-log"
             },
-            "time": "2026-04-20T14:21:56+00:00"
+            "time": "2026-04-20T17:50:38+00:00"
         },
         {
             "name": "gsu-dle/gadget-process",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gsu-dle/gadget-process.git",
-                "reference": "759e3cfd27906197bbf99d9c7f31ffc2d2a27779"
+                "reference": "49f7094d9b8af8c1a8435e9a95c4b663595a5544"
             },
             "require": {
                 "ext-json": "*",
@@ -364,7 +364,7 @@
                 "wiki": "https://github.com/gsu-dle/gadget-process/wiki",
                 "source": "https://github.com/gsu-dle/gadget-process"
             },
-            "time": "2026-04-20T14:34:14+00:00"
+            "time": "2026-04-20T17:50:40+00:00"
         },
         {
             "name": "gsu-dle/symfony-bundle",
