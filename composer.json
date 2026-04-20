@@ -47,24 +47,8 @@
   },
   "repositories": [
     {
-      "type": "vcs",
-      "url": "https://github.com/gsu-dle/gadget-console"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/gsu-dle/gadget-core"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/gsu-dle/gadget-log"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/gsu-dle/gadget-process"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/gsu-dle/symfony-bundle"
+      "type": "composer",
+      "url": "https://gsu-dle.github.io/composer-repo"
     }
   ]
 }

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6fc21b1d82effef08d1dc1ed1db1ec0d",
+    "content-hash": "210d0736d0c003e890a859e674764d54",
     "packages": [
         {
             "name": "doctrine/dbal",
@@ -168,12 +168,6 @@
                 "url": "https://github.com/gsu-dle/gadget-console.git",
                 "reference": "7c323d4200bcc1cbf84d30fea37b14586b2ae552"
             },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/gsu-dle/gadget-console/zipball/7c323d4200bcc1cbf84d30fea37b14586b2ae552",
-                "reference": "7c323d4200bcc1cbf84d30fea37b14586b2ae552",
-                "shasum": ""
-            },
             "require": {
                 "ext-json": "*",
                 "gsu-dle/gadget-core": "^1.0",
@@ -226,12 +220,6 @@
                 "url": "https://github.com/gsu-dle/gadget-core.git",
                 "reference": "d9884bfc076ed582c9f3cdfddd0527e19b897289"
             },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/gsu-dle/gadget-core/zipball/d9884bfc076ed582c9f3cdfddd0527e19b897289",
-                "reference": "d9884bfc076ed582c9f3cdfddd0527e19b897289",
-                "shasum": ""
-            },
             "require": {
                 "ext-json": "*",
                 "php": "^8.1"
@@ -279,12 +267,6 @@
                 "type": "git",
                 "url": "https://github.com/gsu-dle/gadget-log.git",
                 "reference": "90b83ee3560c104af0cf276c9d10451b48ea6459"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/gsu-dle/gadget-log/zipball/90b83ee3560c104af0cf276c9d10451b48ea6459",
-                "reference": "90b83ee3560c104af0cf276c9d10451b48ea6459",
-                "shasum": ""
             },
             "require": {
                 "ext-json": "*",
@@ -342,12 +324,6 @@
                 "url": "https://github.com/gsu-dle/gadget-process.git",
                 "reference": "759e3cfd27906197bbf99d9c7f31ffc2d2a27779"
             },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/gsu-dle/gadget-process/zipball/759e3cfd27906197bbf99d9c7f31ffc2d2a27779",
-                "reference": "759e3cfd27906197bbf99d9c7f31ffc2d2a27779",
-                "shasum": ""
-            },
             "require": {
                 "ext-json": "*",
                 "gsu-dle/gadget-core": "^1.0",
@@ -397,12 +373,6 @@
                 "type": "git",
                 "url": "https://github.com/gsu-dle/symfony-bundle.git",
                 "reference": "1d20ecbbbb3ef40d0e9e2504348c59a86df291c9"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/gsu-dle/symfony-bundle/zipball/1d20ecbbbb3ef40d0e9e2504348c59a86df291c9",
-                "reference": "1d20ecbbbb3ef40d0e9e2504348c59a86df291c9",
-                "shasum": ""
             },
             "require": {
                 "php": "^8.1",
